@@ -1,0 +1,23 @@
+.b-shadow{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.Nav{
+  background-color: lightseagreen;
+  line-height: 4;
+}
+.Nav ul li{
+    list-style: none;
+    display: inline;
+    margin: 10px;
+    
+}
+.Nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    color: gray;
+    
+}
+.active{
+    color: black !important;
+    font-weight: bold;
+}

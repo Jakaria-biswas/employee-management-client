@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"jakaria biswas",
+        "email":"jakaria.biswas@gmail.com",
+        "position":"web developer",
+        "join":"12/12/2022",
+        "salary": 30000
+    },
+    {
+        "id":2,
+        "name":"sabbir sordar",
+        "email":"mdsabbir@gamil.com",
+        "position":"health checker",
+        "join":"12/12/2022",
+        "salary":40000
+    },
+    {
+        "id":3,
+        "name":"saifuddion mollik",
+        "email":"saifuddion121@gmail.com",
+        "position":"business guid",
+        "join":"12/12/2022",
+        "salary":34000
+    },
+    {
+        "id":4,
+        "name":"moeen bhyh",
+        "email":"moeen2022@gmail.com",
+        "position":"track driver",
+        "join":"12/12/2022",
+        "salary":31500
+    }
+]
