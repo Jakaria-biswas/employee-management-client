@@ -66,7 +66,7 @@ const MainPage = () => {
 
     return (
         <div className='container'>
-            <h2 className='bg-info text-center p-3'>Employee management application</h2>
+            <h2 className='bg-info text-center p-3'>Employee management system</h2>
             <div className="row">
                 <div className="col-md-3 sticky-top b-shadow p-3">
                     <form onSubmit={handleAddEmployee} >
